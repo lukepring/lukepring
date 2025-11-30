@@ -1,6 +1,6 @@
 ## Hi, I'm Luke 👋
 
-Welcome to my GitHub profile! I'm passionate about building great software and exploring new technologies.
+🎓 BEng (Hons) Software Engineering at the University of Roehampton London. (2024-27)
 
 🔭 Check out my repositories below to see what I've been working on.
 
